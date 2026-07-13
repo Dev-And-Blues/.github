@@ -7,16 +7,12 @@
 
 ---
 
-Building modern software through collaboration, craftsmanship, and
-continuous learning.
-:::
-
 ---
 
 # 🎵 Our Philosophy
 
 Blues music was born from challenges, emotions, and
-perseverance---transforming life's experiences into timeless art.
+perseverance--transforming life's experiences into timeless art.
 
 At **Dev&Blues**, we embrace the same philosophy.
 
