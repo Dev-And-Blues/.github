@@ -2,7 +2,7 @@
 
 ### _Turning challenges into innovation._
 
-> **"Like Blues transforms experience into art, Deva nd Blues transforms
+> **"Like Blues transforms experience into art, Dev and Blues transforms
 > challenges into innovation."**
 
 ---
