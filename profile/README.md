@@ -1,5 +1,3 @@
-::: {align="center"}
-
 # 💙 Dev and Blues
 
 ### _Turning challenges into innovation._
@@ -137,12 +135,9 @@ That spirit inspires everything we build.
 
 ---
 
-::: {align="center"}
-
 ### 💙 Code with purpose.
 
 ### 🎵 Build with passion.
 
 ### 🚀 Grow through challenges.
 
-:::
