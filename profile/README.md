@@ -7,8 +7,6 @@
 
 ---
 
----
-
 # 🎵 Our Philosophy
 
 Blues music was born from challenges, emotions, and
