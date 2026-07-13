@@ -1,8 +1,8 @@
-# 💙 Dev and Blues
+# 💙 Dev & Blues
 
 ### _Turning challenges into innovation._
 
-> **"Like Blues transforms experience into art, Dev and Blues transforms
+> **"Like Blues transforms experience into art, Dev & Blues transforms
 > challenges into innovation."**
 
 ---
@@ -18,7 +18,7 @@ continuous learning.
 Blues music was born from challenges, emotions, and
 perseverance---transforming life's experiences into timeless art.
 
-At **DevBlues**, we embrace the same philosophy.
+At **Dev&Blues**, we embrace the same philosophy.
 
 Every bug is an opportunity to learn.
 
@@ -121,7 +121,7 @@ Every contribution---big or small---helps shape better software.
 
 ---
 
-# 🎼 Why Dev and Blues?
+# 🎼 Why Dev & Blues?
 
 The Blues is more than a genre of music.
 
